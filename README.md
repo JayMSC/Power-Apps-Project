@@ -45,8 +45,7 @@ Remove orders when necessary
 
 💡 The solution is built entirely using Power Fx formulas, demonstrating how low-code tools can effectively digitize simple, real-world processes with minimal development effort.
 
-     ( Project link)
-👉 https://apps.powerapps.com/play/e/default-0b8d0940-d7c7-480f-a88a-762ec7541d58/a/801fb559-7c90-4017-bc8d-5ec7b348c50a?tenantId=0b8d0940-d7c7-480f-a88a-762ec7541d58&sourcetime=1776523766635
+(Project Link)👉 https://apps.powerapps.com/play/e/default-0b8d0940-d7c7-480f-a88a-762ec7541d58/a/801fb559-7c90-4017-bc8d-5ec7b348c50a?tenantId=0b8d0940-d7c7-480f-a88a-762ec7541d58&sourcetime=1776523766635
 
 ### 🔹 Task Project Manager
 
@@ -59,8 +58,7 @@ I recently developed a Task & Project Management System using Microsoft Power Pl
  🔹 Used Power Fx formulas to implement app logic and enhance functionality
 This project helped me gain hands-on experience in low-code development, workflow automation, and Microsoft cloud integration.
 
-   (Project Link)
-👉  https://apps.powerapps.com/play/e/64b63a66-47f5-ef46-a417-716063754012/a/fcf283b4-54ad-4583-a26d-4fdf098dbd8d?tenantId=0b8d0940-d7c7-480f-a88a-762ec7541d58&hint=144b0733-8529-4ab2-8f4e-5a28c16d5190&sourcetime=1776523978076
+( Project Link )👉  https://apps.powerapps.com/play/e/64b63a66-47f5-ef46-a417-716063754012/a/fcf283b4-54ad-4583-a26d-4fdf098dbd8d?tenantId=0b8d0940-d7c7-480f-a88a-762ec7541d58&hint=144b0733-8529-4ab2-8f4e-5a28c16d5190&sourcetime=1776523978076
 
 ---
 
@@ -74,9 +72,8 @@ This project focuses on helping students manage their studies more effectively b
 The solution was developed using Microsoft Power Apps, Power Automate, and AI Agents with Copilot, combining low-code development with intelligent automation.
 This experience allowed me to dive deeper into Generative AI and its practical application in education, aiming to make learning more structured, personalized, and accessible for students.
 Excited to continue exploring AI-driven solutions that create real impact 🚀
-
-      (Project Link)
-👉https://apps.powerapps.com/play/e/default-0b8d0940-d7c7-480f-a88a-762ec7541d58/a/6a4b42b8-54dd-4a1c-b561-8aef8c5f6027?tenantId=0b8d0940-d7c7-480f-a88a-762ec7541d58&hint=5c731e67-7980-403e-bb67-c84c21231ef0&sourcetime=1776523627344
+    
+ (Project Link)👉https://apps.powerapps.com/play/e/default-0b8d0940-d7c7-480f-a88a-762ec7541d58/a/6a4b42b8-54dd-4a1c-b561-8aef8c5f6027?tenantId=0b8d0940-d7c7-480f-a88a-762ec7541d58&hint=5c731e67-7980-403e-bb67-c84c21231ef0&sourcetime=1776523627344
 
 ---
 
