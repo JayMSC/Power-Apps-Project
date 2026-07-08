@@ -45,7 +45,7 @@ Remove orders when necessary
 💡 The solution is built entirely using Power Fx formulas, demonstrating how low-code tools can effectively digitize simple, real-world processes with minimal development effort.
 
 (Project Link)👉[C:\Users\Jayshree\Downloads\Jayshree Tapase\images\Project.mp4](https://github.com/user-attachments/assets/6c33a7a3-fbb3-438f-ba05-5d6989fbc6ef
-)
+)            https://github.com/JayMSC/Coffee-order/edit/main/README.md
 ### 🔹 Task Project Manager
 
 I recently developed a Task & Project Management System using Microsoft Power Platform tools.
