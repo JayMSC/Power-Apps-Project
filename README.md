@@ -25,11 +25,12 @@ Managers can view all submitted leave requests and update the status to either A
 
 💡 A practical example of how Power Apps can automate routine HR processes, enhance visibility, and improve overall efficiency.
 
-(Project Link) 👉  https://apps.powerapps.com/play/e/64b63a66-47f5-ef46-a417-716063754012/a/038d448a-0798-4d11-9d9d-f078791b2990?tenantId=0b8d0940-d7c7-480f-a88a-762ec7541d58&hint=ea03ef90-ba3a-4ce5-a998-b1b3d80ef32f&sourcetime=1776523925195
+(Project Link) 👉 https://github.com/user-attachments/assets/1a705884-341e-41e2-a031-77caa2cc0391
 
----
+
 
 ### 🔹 Coffee Order Application ☕
+
 I recently developed a Coffee Order Application using Microsoft Power Apps, with a SharePoint list serving as the data source.
 
 ☕ The application allows users to:
